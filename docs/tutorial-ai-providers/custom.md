@@ -4,7 +4,7 @@ sidebar_position: 17
 
 # Custom
 
-This option allows you to choose a provider. All you need to connect is the API key and the provider's Custom Link (completion endpoint), commonly the registration link.
+This option allows you to choose a provider. All you need to connect is the API key and the provider’s Custom Link (completion endpoint), commonly the registration link. This feature is available exclusively for Professional or Teams plans.
 
 ## Connect to Custom provider
 
@@ -25,4 +25,5 @@ This option allows you to choose a provider. All you need to connect is the API 
 To remove your API Key from CodeGPT, click on `Change connection settings` button.
  <p align="center"><img width="550" height="400" src="https://github.com/user-attachments/assets/926e37d2-ef92-4c2a-bb04-a557d29cffc5"/></p>
 :::
+
 
